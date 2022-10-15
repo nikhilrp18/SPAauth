@@ -1,0 +1,90 @@
+{
+  "employe": [
+    {
+      "id": 100,
+      "name": "nikhil",
+      "doj": "10-10-2020",
+      "salary": 35000,
+      "email": "nikhil@mail.com"
+    }
+  ],
+  "users": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "reppass": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "reppass": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "reppass": "",
+      "id": 3
+    },
+    {
+      "name": "hjvhjv",
+      "email": "vhjfvjh",
+      "password": "hjf",
+      "reppass": "hfjh",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "reppass": "",
+      "id": 5
+    },
+    {
+      "name": "xzc",
+      "email": "gh",
+      "password": "gf@jh",
+      "reppass": "hjh",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "reppass": "",
+      "id": 7
+    },
+    {
+      "name": "qq",
+      "email": "qq",
+      "password": "qq",
+      "reppass": "qq",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "reppass": "",
+      "id": 9
+    },
+    {
+      "name": "a",
+      "email": "",
+      "password": "",
+      "reppass": "",
+      "id": 10
+    },
+    {
+      "name": "sa",
+      "email": "",
+      "password": "",
+      "reppass": "",
+      "id": 11
+    }
+  ]
+}
