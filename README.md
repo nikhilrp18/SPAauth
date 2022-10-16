@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Description
+
+## DESCRIPTION
+
+this project is based on SPA authentication.
+studied how to use json server and how to pass datta to json file.
+when the user register the details will be saved on the json file and when user come to login,check the details that user entered while login is matching with the details in the json file.
